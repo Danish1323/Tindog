@@ -176,7 +176,7 @@ h3{
 
 /* Media Query for responsiveness */
 
-@media (max-width:950px) {
+@media (max-width:993px) {
 
     .title-img{
         position: static;
